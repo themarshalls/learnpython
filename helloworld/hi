@@ -1,0 +1,7 @@
+for i in range(4):
+    print "hello world"
+    
+x = 1    
+while (x < 10):
+    print "xhello world"
+    x = x + 1
